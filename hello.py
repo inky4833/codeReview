@@ -1,4 +1,4 @@
 num = 10
 
-class student:
+class Student:
     pass
